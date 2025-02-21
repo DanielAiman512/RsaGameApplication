@@ -1,6 +1,5 @@
 Welcome to the **RSA Cryptography Game**! This game is designed to help you learn and understand how the RSA encryption algorithm works in a fun and interactive way. Below is a step-by-step guide on how to use the game.
 
----
 
 ### **1. What is the RSA Cryptography Game?**
 The RSA Cryptography Game simulates the process of generating encryption keys, encrypting messages, and decrypting them using the RSA algorithm. You will:
@@ -11,7 +10,6 @@ The RSA Cryptography Game simulates the process of generating encryption keys, e
 
 The game also tracks your performance and displays a leaderboard with the fastest completion times.
 
----
 
 ### **2. How to Play**
 
@@ -53,7 +51,6 @@ The game also tracks your performance and displays a leaderboard with the fastes
 - After decrypting the message, your score (time taken) will be saved.
 - Click **View Leaderboard** to see the top 10 scores.
 
----
 
 ### **3. Directory for JSON File**
 The leaderboard data is stored in a JSON file. If you need to change the directory where this file is saved, follow these steps:

@@ -1,7 +1,7 @@
-Welcome to the **RSA Cryptography Game**! This game is designed to help you learn and understand how the RSA encryption algorithm works in a fun and interactive way. Below is a step-by-step guide on how to use the game.
+#Welcome to the **RSA Cryptography Game**! This game is designed to help you learn and understand how the RSA encryption algorithm works in a fun and interactive way. Below is a step-by-step guide on how to use the game.
 
 
-### **1. What is the RSA Cryptography Game?**
+## 1. What is the RSA Cryptography Game?
 The RSA Cryptography Game simulates the process of generating encryption keys, encrypting messages, and decrypting them using the RSA algorithm. You will:
 - Choose two prime numbers.
 - Generate public and private keys.

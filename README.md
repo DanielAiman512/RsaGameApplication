@@ -1,5 +1,3 @@
-### **README File Explanation for Non-Technical Users**
-
 Welcome to the **RSA Cryptography Game**! This game is designed to help you learn and understand how the RSA encryption algorithm works in a fun and interactive way. Below is a step-by-step guide on how to use the game.
 
 ---
